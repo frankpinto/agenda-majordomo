@@ -1,0 +1,23 @@
+{
+  "name": "majordomo",
+  "version": "0.0.1",
+  "description": "Coordinate workers for use with Agenda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:frankpinto/majordomo.git"
+  },
+  "keywords": [
+    "workers",
+    "scheduling"
+  ],
+  "author": "Frank Pinto <frank@ayalo.co>",
+  "license": "Artistic License 2.0",
+  "bugs": {
+    "url": "https://github.com/frankpinto/majordomo/issues"
+  },
+  "homepage": "https://github.com/frankpinto/majordomo"
+}
