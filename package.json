@@ -1,5 +1,5 @@
 {
-  "name": "majordomo",
+  "name": "agenda-majordomo",
   "version": "0.0.1",
   "description": "Coordinate workers for use with Agenda",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:frankpinto/majordomo.git"
+    "url": "git@github.com:frankpinto/agenda-majordomo.git"
   },
   "keywords": [
     "workers",
@@ -17,7 +17,7 @@
   "author": "Frank Pinto <frank@ayalo.co>",
   "license": "Artistic License 2.0",
   "bugs": {
-    "url": "https://github.com/frankpinto/majordomo/issues"
+    "url": "https://github.com/frankpinto/agenda-majordomo/issues"
   },
-  "homepage": "https://github.com/frankpinto/majordomo"
+  "homepage": "https://github.com/frankpinto/agenda-majordomo"
 }
